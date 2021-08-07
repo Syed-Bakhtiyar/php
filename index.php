@@ -41,7 +41,7 @@
 
 </form>
 
-<h3>an Special thanks to Mam Aniqa Sheerazi</h3>
+<h3>an Special thanks to Bakhtiyar</h3>
     <p>she is really Sincere professor</p>
 <!--
 
